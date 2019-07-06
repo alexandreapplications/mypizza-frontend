@@ -1,0 +1,39 @@
+{
+  "pizza": [
+    {
+      "id": 1,
+      "name": "Muçarela",
+      "price": 20.2,
+      "components": ["Quejo muçarela"],
+      "img": "muçarela.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Marguerita",
+      "price": 20.2,
+      "components": ["Quejo muçarela", "Tomate"],
+      "img": "marguerita.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Peperoni",
+      "price": 23.2,
+      "components": ["Quejo muçarela", "Peperoni"],
+      "img": "peperoni.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Calabresa",
+      "price": 23.2,
+      "components": ["Quejo muçarela", "Calabresa", "Oregano"],
+      "img": "calabresa.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Baiana",
+      "price": 23.2,
+      "components": ["Quejo muçarela", "Calabresa", "Oregano"],
+      "img": "baiana.jpg"
+    }
+  ]
+}
